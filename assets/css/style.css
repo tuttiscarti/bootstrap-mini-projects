@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Pricing Cards */
+@media (min-width: 800px) {
+    .maxw-800 {
+        width: 800px;
+    }
+}
+
+/* Ratings Component */
+@media (min-width: 600px) {
+    .maxw-600 {
+        width: 600px;
+    }
+}
+
+/* User List */
+@media(max-width: 767px) {
+    .user-menu {
+        justify-content: center !important;
+        margin-top: 20px;
+    }
+}
